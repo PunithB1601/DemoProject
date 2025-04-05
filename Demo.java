@@ -1,5 +1,6 @@
-class Demo
-{
-  int a=10;
-  int b=50;
+class Demo{
+	public static void main(String[] args){
+
+	}
+
 }
